@@ -60,7 +60,40 @@ body {
 img {
   width: 14rem;
 }
+.error {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  padding: 2rem;
+  background-color: #495057;
+  border-radius: 100px;
+}
 
+img {
+  width: 14rem;
+}
+.error {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  padding: 2rem;
+  background-color: #495057;
+  border-radius: 100px;
+}
+img {
+  width: 14rem;
+}
+.error {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  padding: 2rem;
+  background-color: #495057;
+  border-radius: 100px;
+}
+img {
+  width: 14rem;
+}
 h1 {
   font-family: "Codystar";
   font-size: 5.6rem;
